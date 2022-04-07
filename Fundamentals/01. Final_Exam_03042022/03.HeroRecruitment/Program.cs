@@ -10,8 +10,7 @@ namespace _03.HeroRecruitment
 
             Dictionary<string, List<string>> heroAndSpells = new Dictionary<string, List<string>>();
 
-            Dictionary<string, string> test = new Dictionary<string, string>();
-
+                      
             string cmd;
 
             while ((cmd = Console.ReadLine()) != "End")
