@@ -1,2 +1,2 @@
 *.sql linguist-detectable=true
-*.gs linguist-language=Javascript
+*.c# linguist-detectable=true
