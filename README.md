@@ -1,1 +1,38 @@
-# SoftUniCSharpCourses
+<h2>Courses I have completed during my studies @ SoftUni</h2>
+<em> Here you can find problem solutions from the following lectures:</em>
+***
+ <details>
+ <summary><h3>Fundamentals Module</summary>
+
+1. [**Basic Syntax, Conditional Statements and Loops**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/1.%20Basic%20Syntax)
+2. [**Data Types and Variables**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/2.%20Data%20Types%20and%20Variables)
+3. [**Arrays**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/3.%20Arrays)
+4. [**Methods**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/4.%20Methods)
+5. [**Lists**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/5.%20List)
+6. [**Objects and Classes**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/6.%20Objects%20and%20Classes)
+7. [**Associative Arrays**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/7.%20Associative%20Arrays)
+8. [**Text Processing**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/8.%20Text%20Processing)
+9. [**Regular Expressions**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/9.%20Regular%20Expressions)
+  </details>
+  
+***
+ <details>
+ <summary><h3>C# Advanced Module</summary>
+  </details>
+  
+***
+ <details>
+ <summary><h3>Object-Oriented Programming(OOP) Module</summary>
+    </details>
+    
+***
+ <details>
+ <summary><h3> C# Databases Basics Module</summary>
+ 
+ 2. [**Create, Read, Update and Delete(CRUD)**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Databases%20Basic%20-%20MSSQL%20Server/2.%20CRUD%20-%20Exercises)
+ 3. [**Table Relations**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Databases%20Basic%20-%20MSSQL%20Server/3.%20Table%20Relations%20-%20Exercises)
+ 4. [**Built-in Functions**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Databases%20Basic%20-%20MSSQL%20Server/4.%20Built-in%20Functions)
+ 5. [**Subqueries and Joins**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Databases%20Basic%20-%20MSSQL%20Server/5.%20Subqueries%20and%20Joins)
+ 6. [**Indices and Data Aggregation**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Databases%20Basic%20-%20MSSQL%20Server/6.%20Indices%20and%20Data%20Aggregation)
+ 
+    </details>
