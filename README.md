@@ -17,7 +17,7 @@
   
 ***
  <details>
- <summary><h3>Advanced Module</summary>
+ <summary><h3>C# Advanced Module</summary>
   </details>
   
 ***
