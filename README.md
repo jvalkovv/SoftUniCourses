@@ -4,15 +4,15 @@
  <details>
  <summary><h3>Fundamentals Module</summary>
 
-1. [**Basic Syntax, Conditional Statements and Loops**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/1.%20Basic%20Syntax)
-2. [**Data Types and Variables**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/2.%20Data%20Types%20and%20Variables)
-3. [**Arrays**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/3.%20Arrays)
-4. [**Methods**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/4.%20Methods)
-5. [**Lists**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/5.%20List)
-6. [**Objects and Classes**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/6.%20Objects%20and%20Classes)
-7. [**Associative Arrays**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/7.%20Associative%20Arrays)
-8. [**Text Processing**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/8.%20Text%20Processing)
-9. [**Regular Expressions**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Fundamentals/9.%20Regular%20Expressions)
+1. [**Basic Syntax, Conditional Statements and Loops**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Fundamentals/1.%20Basic%20Syntax)
+2. [**Data Types and Variables**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Fundamentals/2.%20Data%20Types%20and%20Variables)
+3. [**Arrays**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Fundamentals/3.%20Arrays)
+4. [**Methods**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Fundamentals/4.%20Methods)
+5. [**Lists**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Fundamentals/5.%20List)
+6. [**Objects and Classes**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Fundamentals/6.%20Objects%20and%20Classes)
+7. [**Associative Arrays**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Fundamentals/7.%20Associative%20Arrays)
+8. [**Text Processing**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Fundamentals/8.%20Text%20Processing)
+9. [**Regular Expressions**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Fundamentals/9.%20Regular%20Expressions)
   </details>
   
 ***
