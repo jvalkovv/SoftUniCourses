@@ -1,4 +1,1 @@
 *.sql linguist-detectable=true
-*.razor linguist-language=C#
-*.razor linguist-language=sql
-
