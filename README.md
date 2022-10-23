@@ -1,6 +1,6 @@
 <h2>Courses I have completed during my studies @ SoftUni</h2>
 <em> Here you can find problem solutions from the following lectures:</em>
-***
+
  <details>
  <summary><h3>Fundamentals Module</summary>
 
