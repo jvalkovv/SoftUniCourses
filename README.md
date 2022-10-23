@@ -26,7 +26,7 @@
  
  1. [**Inheritance - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/01.Inheritance)
  2. [**Encapsulation - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/02.Encapsulation)
- 3. [**Interfaces and Abstraction - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/03.InterfacesAndAbstraction)
+ 3. [**Interfaces and Abstraction - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/03.Interfaces%20and%20Abstraction)
  
  </details>
     
