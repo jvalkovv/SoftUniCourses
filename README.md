@@ -1,6 +1,6 @@
 <h2>Courses I have completed during my studies @ SoftUni</h2>
 <em> Here you can find problem solutions from the following lectures:</em>
-***
+
  <details>
  <summary><h3>Fundamentals Module</summary>
 
@@ -26,7 +26,7 @@
  
  1. [**Inheritance - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/01.Inheritance)
  2. [**Encapsulation - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/02.Encapsulation)
- 3. [**Interfaces and Abstraction - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/03.InterfacesAndAbstraction)
+ 3. [**Interfaces and Abstraction - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/03.Interfaces%20and%20Abstraction)
  
  </details>
     
