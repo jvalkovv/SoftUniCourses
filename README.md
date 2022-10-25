@@ -32,7 +32,7 @@
     
 ***
  <details>
- <summary><h3> C# Databases Basics Module</summary>
+ <summary><h3> C# Databases - MS SQL Server Module</summary>
  
  2. [**Create, Read, Update and Delete(CRUD)**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Databases%20Basic%20-%20MSSQL%20Server/2.%20CRUD%20-%20Exercises)
  3. [**Table Relations**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Databases%20Basic%20-%20MSSQL%20Server/3.%20Table%20Relations%20-%20Exercises)
