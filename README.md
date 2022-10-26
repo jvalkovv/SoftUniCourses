@@ -22,7 +22,7 @@
   
 ***
  <details>
- <summary><h3>Object-Oriented Programming(OOP) Module</summary>
+ <summary><h3>C# Object-Oriented Programming(OOP) Module</summary>
  
  1. [**Inheritance - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/01.Inheritance)
  2. [**Encapsulation - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/02.Encapsulation)
