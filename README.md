@@ -28,6 +28,7 @@
  2. [**Encapsulation - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/02.Encapsulation)
  3. [**Interfaces and Abstraction - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/03.Interfaces%20and%20Abstraction)
  4. [**Polymorphism - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/04.Polymorphism)
+ 5. [**Exceptions and Error Handling - Lab**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/05.Exceptions%20and%20Error%20Handling)
  6. [**Reflection and Attributes - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/06.Reflection%20and%20Attributes)
  </details>
     
