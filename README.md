@@ -24,12 +24,13 @@
  <details>
  <summary><h3>C# Object-Oriented Programming(OOP) Module</summary>
  
- 1. [**Inheritance - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/01.Inheritance)
- 2. [**Encapsulation - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/02.Encapsulation)
+ 1. [**Inheritance - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/01.Inheritance)
+ 2. [**Encapsulation - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/02.Encapsulation)
  3. [**Interfaces and Abstraction - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/03.Interfaces%20and%20Abstraction)
- 4. [**Polymorphism - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/04.Polymorphism)
+ 4. [**Polymorphism - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/04.Polymorphism)
  5. [**Exceptions and Error Handling - Lab**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/05.Exceptions%20and%20Error%20Handling)
  6. [**Reflection and Attributes - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/06.Reflection%20and%20Attributes)
+ 7. [**Unit Testing - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/07.Unit%20Testing)
  </details>
     
 ***
