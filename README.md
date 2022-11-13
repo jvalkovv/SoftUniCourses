@@ -18,6 +18,8 @@
 ***
  <details>
  <summary><h3>C# Advanced Module</summary>
+ 
+ 1. [**Stacks and Queues - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Advanced/1.%20Stacks%20and%20Queues)
   </details>
   
 ***
