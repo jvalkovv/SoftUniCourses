@@ -28,8 +28,7 @@
 ***
  <details>
  <summary><h3>C# Object-Oriented Programming(OOP) Module</summary>
- 
- 
+  
  1. [**Inheritance - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/01.Inheritance)
  2. [**Encapsulation - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/02.Encapsulation)
  3. [**Interfaces and Abstraction - Labs and Exercise**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20OOP/03.Interfaces%20and%20Abstraction)
@@ -43,7 +42,7 @@
 ***
  <details>
  <summary><h3> C# Databases - MS SQL Server Module</summary>
- 
+  
  1. [**Databases Introduction**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Databases-%20MSSQL%20Server/1.%20Databases%20Introduction)
  2. [**Create, Read, Update and Delete(CRUD)**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Databases-%20MSSQL%20Server/2.%20CRUD%20-%20Exercises)
  3. [**Table Relations**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Databases-%20MSSQL%20Server/3.%20Table%20Relations%20-%20Exercises)
