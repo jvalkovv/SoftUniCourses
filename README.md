@@ -43,6 +43,18 @@
  <details>
  <summary><h3> C# Databases - MS SQL Server Module</summary>
   
+ 2. [**Entity Relations**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Entity%20Framework%20Core/02.%20Entity%20Relations)
+ 3. [**LINQ**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Entity%20Framework%20Core/03.%20LINQ)
+ 4. [**Advanced Queruing**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Entity%20Framework%20Core/04.%20Advanced%20Queruing)
+ 5. [**JavaScript Object Notation - JSON**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Entity%20Framework%20Core/05.%20JavaScript%20Object%20Notation%20-%20JSON)
+ 6. [**Extensible Markup Language - XML**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Entity%20Framework%20Core/06.%20Extensible%20Markup%20Language%20-%20XML)
+    </details>
+    
+    ***
+    
+ <details>
+ <summary><h3> C# Entity Framework Core Module</summary>
+  
  1. [**Databases Introduction**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Databases-%20MSSQL%20Server/1.%20Databases%20Introduction)
  2. [**Create, Read, Update and Delete(CRUD)**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Databases-%20MSSQL%20Server/2.%20CRUD%20-%20Exercises)
  3. [**Table Relations**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Databases-%20MSSQL%20Server/3.%20Table%20Relations%20-%20Exercises)
