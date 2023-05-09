@@ -18,4 +18,4 @@ function tickets(params) {
 
   console.log(`${price.toFixed(2)} leva`);
 }
-tickets(["Premiere", "10", "12"]);
+
