@@ -3,7 +3,7 @@
 
 ***
  <details>
- <summary><h3>Fundamentals Module</summary>
+ <summary><h3>C# Fundamentals Module</summary>
 
 1. [**Basic Syntax, Conditional Statements and Loops**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Fundamentals/1.%20Basic%20Syntax)
 2. [**Data Types and Variables**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Fundamentals/2.%20Data%20Types%20and%20Variables)
