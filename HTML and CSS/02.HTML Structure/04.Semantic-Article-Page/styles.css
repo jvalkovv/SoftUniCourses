@@ -1,0 +1,24 @@
+.mainStyle {
+    
+    background-color: #e4e978;
+    width: 700px;
+    margin: 15px 10px;
+}
+
+.firstSection {
+    /* from top, from left */
+    padding: 5px  15px;
+    background-color: #f2f4c0;
+    border: 1px solid #b2ad7d;
+    margin: 15px 10px;
+}
+
+.commentSection {
+    /* from top, from left */
+    padding: 5px  15px;
+    font-style: italic;
+    color: #5c6e91;
+    background-color: #f2f4c0;
+    border: 1px solid #b2ad7d;
+    margin: 15px 10px;
+}
