@@ -1,8 +1,8 @@
 function salary(params) {
-  let openTabCount = Number(params[0]);
-  let salary = Number(params[1]);
+  let openTabCount = Number(params.shift());
+  let salary = Number(params.shift());
 
-  for (let index = 1; index <= openTabCount; index++) {
+  for (let index = 0; index < openTabCount; index++) {
     let currTab = String(params[index]);
 
     if (currTab === "Facebook") {
@@ -17,6 +17,7 @@ function salary(params) {
       return;
     }
   }
+
   console.log(`${salary}`);
 }
 salary([
