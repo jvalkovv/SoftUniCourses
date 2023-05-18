@@ -8,7 +8,7 @@ function exam(params) {
     let taskName = String(params.shift());
     if (taskName === "Enough") {
       break;
-    }
+    } 
     let currScore = Number(params.shift());
     if (currScore <= 4) {
       countBadGrades++;
