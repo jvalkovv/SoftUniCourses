@@ -13,7 +13,6 @@ namespace _05._Login
             for (int i = username.Length - 1; i >= 0; i--)
             {
                 password += username[i];
-
             }
             for (int count = 1; count <= 4; count++)
             {
@@ -37,12 +36,7 @@ namespace _05._Login
                         continue;
                     }
                 }
-                {
-
-                }
-            }
-
-           
+            }       
         }
     }
 }
