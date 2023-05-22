@@ -3,6 +3,19 @@
 
 ***
  <details>
+ <summary><h3>Programming Basics with JavaScript</summary>
+  
+ 1. [**First Steps In Coding - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Programming%20Basics%20with%20JavaScript/1.%20First%20Steps%20In%20Coding)
+  2. [**Conditional Statements - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Programming%20Basics%20with%20JavaScript/2.%20Conditional%20Statements)
+  3. [**Conditional Statements Advanced - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Programming%20Basics%20with%20JavaScript/3.%20Conditional%20Statements%20Advanced)
+  4. [**For Loop - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Programming%20Basics%20with%20JavaScript/4.%20For%20Loop)
+  5. [**While Loop - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Programming%20Basics%20with%20JavaScript/5.%20While%20Loop)
+  6. [**Nested Loops - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Programming%20Basics%20with%20JavaScript/6.%20Nested%20Loops)
+  
+  </details>
+  
+***
+ <details>
  <summary><h3>C# Fundamentals Module</summary>
 
 1. [**Basic Syntax, Conditional Statements and Loops**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/C%23%20Fundamentals/1.%20Basic%20Syntax)
