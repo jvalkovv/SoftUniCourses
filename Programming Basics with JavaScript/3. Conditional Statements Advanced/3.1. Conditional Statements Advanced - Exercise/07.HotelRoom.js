@@ -1,6 +1,6 @@
 function hotelRoom(params) {
   let month = String(params[0]);
-  let countOfNights = String(params[1]);
+  let countOfNights = Number(params[1]);
 
   let studioSum = 0;
   let apartmentSum = 0;
