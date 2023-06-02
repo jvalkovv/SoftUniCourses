@@ -11,7 +11,7 @@
   4. [**For Loop - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Programming%20Basics%20with%20JavaScript/4.%20For%20Loop)
   5. [**While Loop - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Programming%20Basics%20with%20JavaScript/5.%20While%20Loop)
   6. [**Nested Loops - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Programming%20Basics%20with%20JavaScript/6.%20Nested%20Loops)
-  
+  7. [**Exams Preparation**](https://github.com/jvalkovv/SoftUniCourses/tree/main/Programming%20Basics%20with%20JavaScript/7.%20Exams%20Preparation)
   </details>
   
 ***
