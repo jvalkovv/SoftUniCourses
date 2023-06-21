@@ -13,6 +13,14 @@
   6. [**Nested Loops - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCSharpCourses/tree/main/Programming%20Basics%20with%20JavaScript/6.%20Nested%20Loops)
   7. [**Exams Preparation**](https://github.com/jvalkovv/SoftUniCourses/tree/main/Programming%20Basics%20with%20JavaScript/7.%20Exams%20Preparation)
   </details>
+
+  ***
+ <details>
+ <summary><h3>JS Front-End</summary>
+  
+ 1. [**JS Syntax Fundamentals - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCourses/tree/main/JS%20Front-End/01.JS%20Syntax%20Fundamentals)
+ 2. [**Functions and Statements - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCourses/tree/main/JS%20Front-End/02.Functions%20and%20Statements)
+  </details>
   
 ***
  <details>
