@@ -32,4 +32,4 @@ function solve(params) {
     return (char >= "a" && char <= "z") || (char >= "A" && char <= "Z");
   }
 }
-solve("Pass$word");
+solve("MyPass123");
