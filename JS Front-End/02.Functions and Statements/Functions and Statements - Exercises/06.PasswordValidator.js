@@ -1,6 +1,11 @@
 function solve(params) {
   let digitCount = 0;
   let isValid = true;
+
+  if (params.length < 6 || params.length > 10) {
+    console.log(`Password must be between 6 and 10 characters`);
+    isValid = false;
+  }
   for (let char of params) {
     char = Number(char);
     if (isDigit(char)) {
@@ -13,10 +18,6 @@ function solve(params) {
       isValid = false;
       break;
     }
-  }
-  if (params.length < 6 || params.length > 10) {
-    console.log(`Password must be between 6 and 10 characters`);
-    isValid = false;
   }
   if (digitCount < 2) {
     console.log(`Password must have at least 2 digits`);
