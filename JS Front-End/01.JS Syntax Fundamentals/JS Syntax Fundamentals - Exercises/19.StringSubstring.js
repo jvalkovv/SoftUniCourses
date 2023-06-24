@@ -1,15 +1,10 @@
 function solve(searchedWord, params) {
-  let paramsArr = params.split(" ");
-  for (let k = 0; k < paramsArr.length; k++) {
-    let element = paramsArr[k];
-    if (searchedWord.toLowerCase() === element.toLowerCase()) {
-      console.log(searchedWord);
-      break;
-    }
-    if (!paramsArr.includes(searchedWord)) {
-      console.log(`${searchedWord} not found!`);
-      break;
-    }
+  let paramsArr = params.toLowerCase().split(" ");
+
+  if (paramsArr.includes(searchedWord.toLowerCase())) {
+    console.log(searchedWord);
+  } else {
+    console.log(`${searchedWord} not found!`);
   }
 }
-solve("Javascript", "Javascript is the best programming language");
+solve("javascript", "Javascript is the best programming language");
