@@ -20,7 +20,7 @@
   
  1. [**JS Syntax Fundamentals - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCourses/tree/main/JS%20Front-End/01.JS%20Syntax%20Fundamentals)
  2. [**Functions and Statements - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCourses/tree/main/JS%20Front-End/02.Functions%20and%20Statements)
- 3. [**Objects and Classes - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCourses/tree/main/JS%20Front-End/03.Objects%20and%20Classes/Objects%20and%20Classes%20-%20Lab)
+ 3. [**Objects and Classes - Labs and Exercises**](https://github.com/jvalkovv/SoftUniCourses/tree/main/JS%20Front-End/03.Objects%20and%20Classes)
   </details>
   
 ***
