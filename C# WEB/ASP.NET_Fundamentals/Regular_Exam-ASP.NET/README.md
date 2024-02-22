@@ -40,4 +40,4 @@ To access the SeminarHub Platform, click [here](https://gndstore.hopto.org:4433)
 Feel free to contribute by forking the repository and submitting pull requests.
 
 ## License
-This project is licensed under the [MIT License](C%23%20WEB/ASP.NET_Fundamentals/Regular_Exam-ASP.NET/LICENSE).
+This project is licensed under the [MIT License](LICENSE).
