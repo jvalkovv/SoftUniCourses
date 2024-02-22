@@ -1,0 +1,57 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #86B6F6;
+}
+
+/*Index page*/
+.home-image {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.home-page-image {
+    width: 100%;
+}
+
+/**/
+.main-view {
+    width: 100%;
+    padding: 20px;
+    display: flex;
+}
+
+.card {
+    margin: 5px;
+}
+
+@media (max-width: 810px) {
+    .home-page-image {
+        margin-top: 20%;
+        width: 100%;
+        align-items: center;
+    }
+
+    .text-center row {
+        width: 100%;
+    }
+
+    .card {
+        width: 100%;
+    }
+}
