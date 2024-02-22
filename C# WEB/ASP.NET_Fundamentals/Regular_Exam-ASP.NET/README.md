@@ -40,4 +40,4 @@ To access the SeminarHub Platform, click [here](https://gndstore.hopto.org:4433)
 Feel free to contribute by forking the repository and submitting pull requests.
 
 ## License
-This project is licensed under the [MIT License](/LICENSE).
+This project is licensed under the [MIT License](./LICENSE.md).
