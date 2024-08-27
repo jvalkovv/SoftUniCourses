@@ -1,0 +1,65 @@
+name: Build, Test, and Deploy
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+   build_ui_tests:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout of the repo
+        uses: actions/checkout@v4
+      - name: Use Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20.x
+          cache: npm
+      - name: Install Dependencies
+        run: npm install
+      - name: change the config
+        run: echo "export const settings = { host:\"http://localhost:3030\" }" > config.js
+      - name: Install Playwright
+        run: npx playwright install
+      - name: Run BE  in backgroud
+        run: npm run start-be &
+      - name: Run FE in backgroud    
+        run: npm run start-fe &
+      - name: Run UI Tests
+        run: npx playwright test tests/ui.test.js
+
+   deploy_backend-render:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    needs: build_ui_tests
+    steps:
+      - name: Checkout of the repo
+        uses: actions/checkout@v4
+
+      # Deploy the web service
+      - name: Deploy Web Service to Render
+        uses: johnbeynon/render-deploy-action@v0.0.8
+        with:
+          service-id: ${{ secrets.MY_RENDER_WEB_SERVICE_ID }}
+          api-key: ${{ secrets.MY_RENDER_API_KEY }}
+      - name: Sleep for 60 sec
+        run: sleep 60
+
+   deploy_frondend-render:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    needs: deploy_backend-render
+    steps:
+      - name: Checkout of the repo
+        uses: actions/checkout@v4
+      - name: Deploy Static Site to Render
+        uses: johnbeynon/render-deploy-action@v0.0.8
+        with:
+          service-id: ${{ secrets.MY_RENDER_STATIC_SITE_ID }}
+          api-key: ${{ secrets.MY_RENDER_API_KEY }}
+      - name: Sleep for 60 sec
+        run: sleep 60
