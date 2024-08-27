@@ -1,0 +1,92 @@
+vboxuser@DESKTOP-RD4BK2K:~$ pwd  ->> show current directory
+/home/vboxuser
+vboxuser@DESKTOP-RD4BK2K:~$ ls
+vboxuser@DESKTOP-RD4BK2K:~$ ls -al  ->> show directory file
+total 12
+drwxr-x--- 1 vboxuser vboxuser  512 Jul 14 15:05 .
+drwxr-xr-x 1 root     root      512 Jul 14 14:59 ..
+-rw------- 1 vboxuser vboxuser 1220 Jul 14 15:28 .bash_history
+-rw-r--r-- 1 vboxuser vboxuser  220 Jul 14 14:59 .bash_logout
+-rw-r--r-- 1 vboxuser vboxuser 3771 Jul 14 14:59 .bashrc
+-rw-r--r-- 1 vboxuser vboxuser    0 Jul 14 15:00 .motd_shown
+-rw-r--r-- 1 vboxuser vboxuser  807 Jul 14 14:59 .profile
+-rw-r--r-- 1 vboxuser vboxuser    0 Jul 14 15:05 .sudo_as_admin_successful
+
+vboxuser@DESKTOP-RD4BK2K:~$ ls -al /  ->> show current directory file
+total 632
+drwxr-xr-x  1 root root    512 Jul 14 14:59 .
+drwxr-xr-x  1 root root    512 Jul 14 14:59 ..
+lrwxrwxrwx  1 root root      7 Nov 22  2023 bin -> usr/bin
+drwxr-xr-x  1 root root    512 Apr 18  2022 boot
+drwxr-xr-x  1 root root    512 Jul 14 15:23 dev
+drwxr-xr-x  1 root root    512 Jul 14 15:23 etc
+drwxr-xr-x  1 root root    512 Jul 14 14:59 home
+-rwxr-xr-x  1 root root 644432 Jul 13 12:48 init
+lrwxrwxrwx  1 root root      7 Nov 22  2023 lib -> usr/lib
+lrwxrwxrwx  1 root root      9 Nov 22  2023 lib32 -> usr/lib32
+lrwxrwxrwx  1 root root      9 Nov 22  2023 lib64 -> usr/lib64
+lrwxrwxrwx  1 root root     10 Nov 22  2023 libx32 -> usr/libx32
+drwxr-xr-x  1 root root    512 Nov 22  2023 media
+drwxr-xr-x  1 root root    512 Jul 14 14:59 mnt
+drwxr-xr-x  1 root root    512 Nov 22  2023 opt
+dr-xr-xr-x  9 root root      0 Jul 14 15:23 proc
+drwx------  1 root root    512 Nov 22  2023 root
+drwxr-xr-x  1 root root    512 Jul 14 15:23 run
+lrwxrwxrwx  1 root root      8 Nov 22  2023 sbin -> usr/sbin
+drwxr-xr-x  1 root root    512 Nov 22  2023 snap
+drwxr-xr-x  1 root root    512 Nov 22  2023 srv
+dr-xr-xr-x 12 root root      0 Jul 14 15:23 sys
+drwxrwxrwt  1 root root    512 Jul 14 15:14 tmp
+drwxr-xr-x  1 root root    512 Nov 22  2023 usr
+drwxr-xr-x  1 root root    512 Nov 22  2023 var
+vboxuser@DESKTOP-RD4BK2K:~$ cd /etc ->> accessing specific folder
+vboxuser@DESKTOP-RD4BK2K:/etc$ pwd
+/etc
+vboxuser@DESKTOP-RD4BK2K:/etc$ ls os* ->> checking is the file exist
+os-release
+vboxuser@DESKTOP-RD4BK2K:/etc$ cat os-release ->> open the existing file
+PRETTY_NAME="Ubuntu 22.04.3 LTS"
+NAME="Ubuntu"
+VERSION_ID="22.04"
+VERSION="22.04.3 LTS (Jammy Jellyfish)"
+VERSION_CODENAME=jammy
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=jammy
+
+vboxuser@DESKTOP-RD4BK2K:/etc$ uname -a
+Linux DESKTOP-RD4BK2K 4.4.0-19041-Microsoft #4355-Microsoft Thu Apr 12 17:37:00 PST 2024 x86_64 x86_64 x86_64 GNU/Linux
+
+vboxuser@DESKTOP-RD4BK2K:/etc$ hostname
+DESKTOP-RD4BK2K
+
+vboxuser@DESKTOP-RD4BK2K:/etc$ cd
+
+vboxuser@DESKTOP-RD4BK2K:~$ pwd
+/home/vboxuser
+
+vboxuser@DESKTOP-RD4BK2K:~$ cat /etc/hostname
+DESKTOP-RD4BK2K
+
+vboxuser@DESKTOP-RD4BK2K:~$ date
+Sun Jul 14 15:30:15 EEST 2024
+
+vboxuser@DESKTOP-RD4BK2K:~$ date +%Y-%m-%d
+2024-07-14
+
+vboxuser@DESKTOP-RD4BK2K:~$ cal -3
+     June 2024             July 2024            August 2024
+Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
+                   1      1  2  3  4  5  6               1  2  3
+ 2  3  4  5  6  7  8   7  8  9 10 11 12 13   4  5  6  7  8  9 10
+ 9 10 11 12 13 14 15  14 15 16 17 18 19 20  11 12 13 14 15 16 17
+16 17 18 19 20 21 22  21 22 23 24 25 26 27  18 19 20 21 22 23 24
+23 24 25 26 27 28 29  28 29 30 31           25 26 27 28 29 30 31
+30
+
+vboxuser@DESKTOP-RD4BK2K:~$ uptime
+ 15:30:29 up 7 min,  0 users,  load average: 0.52, 0.58, 0.59
