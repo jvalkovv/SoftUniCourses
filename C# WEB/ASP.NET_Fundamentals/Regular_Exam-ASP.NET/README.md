@@ -6,7 +6,7 @@ It is designed for managing seminar events, allowing users to create, edit, and 
 Additionally, users can join other seminars, and the platform provides a user-friendly interface to navigate through seminar details.
 
 ## Getting Started
-To access the SeminarHub Platform, click [here](http://seminarhub.freeddns.org/Identity/Account/Register).
+To access the SeminarHub Platform, click [here](http://seminarhub.freeddns.org).
 
 ## Functionality
 
