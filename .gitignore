@@ -3,3 +3,5 @@ obj
 .vs
 node_modules
 .terraform
+angular
+.vscode
